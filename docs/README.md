@@ -14,7 +14,7 @@ A community-driven glossary of technical terms, acronyms, and jargon for writers
 ## 🔍 Browse the Glossary
 
 Explore terms by category:  
-- [Software Development](./terms/software.md)  
+- [Software Development](./docs/software.md)  
 - [DevOps & Cloud](./terms/devops.md)  
 - [Cybersecurity](./terms/cybersecurity.md)  
 - [General Terms](./terms/general.md)  
