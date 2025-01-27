@@ -3,7 +3,8 @@
 ## Project Overview
 
 
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome!-8A2BE2)](CONTRIBUTING.md) [![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red)](https://github.com/{USERNAME}/{REPO})
 
 A community-driven glossary of technical terms, acronyms, and jargon for writers, developers, and subject-matter experts.  
 
