@@ -7,16 +7,47 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <style>
+    /* Make all sidebar headers bold */
+    .sidebar .sidebar-nav > li > a {
+      font-weight: bold;
+    }
+  
+    /* Optionally, you can also style the links inside nested lists */
+    .sidebar .sidebar-nav li li > a {
+      font-weight: normal; /* Keep nested items normal weight (or adjust as needed) */
+    }
+  </style>
+  
+
 </head>
 <body>
   <div id="app"></div>
   <script>
     window.$docsify = {
       name: '',
-      repo: ''
+      repo: '',
+      // logo: "TechWriters-logo.png",
+      loadSidebar: true,
+      subMaxLevel: 2,
+      name: "TechWriters Hub",
+      repo: "https://github.com/thetechwritershub/Technical-Writing-Glossary",
+      themeColor: '#3F51B5',
+      pagination: {
+      previousText: '← Previous', // Customize the 'Previous' button text
+      nextText: 'Next →',        // Customize the 'Next' button text
+      crossChapter: true,        // Enable navigation across chapters
+      crossChapterText: true     // Include chapter titles in navigation
+    }
+
     }
   </script>
+
+
   <!-- Docsify v4 -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
 </body>
 </html>
