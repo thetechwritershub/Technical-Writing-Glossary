@@ -40,18 +40,32 @@ Explore terms by category:
 ## 📝 Example Entry
 
 ```markdown
-## Term: API  
-**Acronym**: Application Programming Interface  
-**Part of Speech**: Noun  
-**Category**: Software  
+# [Term Name]
 
-### Definition  
-A set of protocols, tools, and definitions that allow different software applications to communicate.  
+## Definition
+[Clear, precise explanation of the term, including any important variations or industry-specific meanings]
 
-### Examples  
-- *REST API*: `GET /api/users` retrieves user data.  
-- *Library API*: Functions exposed by a software library.  
+## Real World Usage
+### Documentation Examples
+- [Relevant code or documentation snippets]
+### Best Practices (if applicable)
+- [Key guidelines for using/documenting this term]
+- [Common pitfalls to avoid]
 
-### Related Terms  
-- [SDK](#sdk): Tools for building apps with APIs.  
-- [Endpoint](#endpoint): A URL for accessing an API resource.  
+## Related Terms & Concepts
+- [Term 1]: [Brief explanation of relationship]
+- [Term 2]: [Brief explanation of relationship]
+
+## Additional Resources
+- [Official documentation/specifications]
+- [Helpful articles or tutorials]
+- [Community discussions/standards]
+
+---
+Last updated: [YYYY-MM-DD] | Version: [X.X]
+
+## Changelog
+| Date | Version | Changes | Contributor |
+|------|---------|---------|-------------|
+| [YYYY-MM-DD] | 1.0 | Initial creation | [Name] | 
+```
