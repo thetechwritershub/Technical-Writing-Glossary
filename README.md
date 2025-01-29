@@ -65,7 +65,7 @@ Explore terms by category:
 Last updated: [YYYY-MM-DD] | Version: [X.X]
 
 ## Changelog
-| Date | Version | Changes | Contributor |
-|------|---------|---------|-------------|
-| [YYYY-MM-DD] | 1.0 | Initial creation | [Name] | 
+| Date | Contributor |
+|------|-------------|
+| [YYYY-MM-DD] | [Name] | 
 ```
