@@ -3,6 +3,7 @@
     - [Overview](Technical-writing-fundamentals/overview.md)
     - [Style guide](Technical-writing-fundamentals/style-guide.md)
 - Software
+    - [Overview](Software/overview.md)
     - [Software](Software/software.md)
 - Devops-Cloud
     - [Infrastructure](Devops-Cloud/Infrastructure.md)

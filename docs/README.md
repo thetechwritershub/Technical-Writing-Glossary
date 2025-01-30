@@ -33,7 +33,8 @@ technical-writing-glossary/
 ## 🔍 Browse the Glossary
 
 Explore terms by category:  
-- [Technical Writing Fundamentals](/docs/Technical-writing-fundamentals/README.md)  
+- [Technical Writing Fundamentals](/docs/Technical-writing-fundamentals/overview.md)  
+- [Software](/docs/Software//overview.md)
 - [DevOps & Cloud](./terms/devops.md)  
 - [Cybersecurity](/docs/Cybersecurity/overview.md)  
 - [AI/ML](./terms/general.md)  
