@@ -1,6 +1,6 @@
 # DevOps & Cloud Computing
 
-DevOps merges software development (Dev) and IT operations (Ops) to accelerate delivery cycles, while cloud computing provides scalable infrastructure for modern applications. This section covers terms related to DevOps practices, cloud platforms, and software delivery processes.
+DevOps merges software development (Dev) and IT operations (Ops) to accelerate delivery cycles, while cloud computing provides scalable infrastructure for modern applications. This section covers terms related to DevOps practices, cloud platforms, continuous integration/delivery, and software delivery processes.
 
 ## Terms in this Category
 
@@ -17,3 +17,10 @@ DevOps merges software development (Dev) and IT operations (Ops) to accelerate d
 - [CI/CD](ci-cd.md): Continuous Integration/Continuous Deployment
 - [Containers](containers.md): Application packaging
 - [Cloud Native](cloud-native.md): Cloud-based application design
+  
+  
+## Contributing
+Want to add a term? See our [contribution guidelines](../../CONTRIBUTING.md) to get started.
+
+---
+*This index is automatically updated. Last sync: [Date]*

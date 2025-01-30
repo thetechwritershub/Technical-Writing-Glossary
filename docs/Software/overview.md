@@ -1,6 +1,7 @@
 # Software Development
 
-Software development involves the processes, tools, and architectures used to build applications. This section covers fundamental software development concepts, methodologies, frameworks and practices. These entries help bridge the gap between developers and technical writers.  
+Software development involves the processes, tools, and architectures used to build applications. This section covers fundamental software development concepts, methodologies, frameworks and practices. These entries help bridge the gap between developers and technical writers, enabling better documentation of software systems.
+
 
 ## Terms in this Category
 

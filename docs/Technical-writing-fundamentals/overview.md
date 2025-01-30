@@ -4,6 +4,7 @@ Technical writing is the practice of conveying complex information clearly, accu
 
 This category covers foundational principles, methodologies, and tools for creating user-centric documentation. From documenting APIs and designing style guides to managing localization workflows, these terms form the backbone of effective technical communication.  
 
+
 ## Terms in this Category
 
 ### A
