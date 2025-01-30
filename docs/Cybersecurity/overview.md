@@ -1,6 +1,6 @@
 # Cybersecurity
 
-This section covers terms related to information security, privacy, and cyber defense concepts.
+Cybersecurity involves protecting systems, networks, and data from digital threats. This section covers terms related to information security, encryption standards, authentication protocols, cyber defense concepts and incident response practices essential for documenting secure systems.  
 
 ## Terms in this Category
 
