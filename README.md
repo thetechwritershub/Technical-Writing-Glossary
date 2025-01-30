@@ -33,10 +33,11 @@ technical-writing-glossary/
 ## 🔍 Browse the Glossary
 
 Explore terms by category:  
-- [Software Development](./terms/software.md)  
+- [Technical Writing Fundamentals](/docs/Technical-writing-fundamentals/overview.md)  
+- [Software](/docs/Software//overview.md)
 - [DevOps & Cloud](./terms/devops.md)  
-- [Cybersecurity](./terms/cybersecurity.md)  
-- [General Terms](./terms/general.md)  
+- [Cybersecurity](/docs/Cybersecurity/overview.md)  
+- [AI/ML](./terms/general.md)  
 
 *(More categories coming soon! [Propose a new category](https://github.com/your-repo/issues).)*
 
@@ -114,3 +115,8 @@ Last updated: [YYYY-MM-DD] | Version: [X.X]
 |------|-------------|
 | [YYYY-MM-DD] | [Name] | 
 ```
+
+## Acknowledgments
+
+Thanks to all contributors who help make this glossary a valuable resource for the technical writing community.
+
