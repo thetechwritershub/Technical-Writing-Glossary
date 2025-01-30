@@ -1,16 +1,34 @@
 # Technical Writing Glossary
 
-## Project Overview
-
-
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome!-8A2BE2)](CONTRIBUTING.md) [![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red)](https://github.com/{USERNAME}/{REPO})
 
-A community-driven glossary of technical terms, acronyms, and jargon for writers, developers, and subject-matter experts.  
+## Project Overview
 
-**Goal**: Provide clear, standardized definitions to improve technical communication globally.
+A comprehensive open-source glossary of technical terms, acronyms, and jargon for writers, developers, and subject-matter experts. This project aims to help technical writers and documentation professionals understand and accurately document concepts across multiple technical fields.
+
+## Purpose
+
+This glossary serves to:
+
+- Provide clear, accurate definitions of technical terms
+- Bridge knowledge gaps between different technical domains
+- Help technical writers document complex concepts accurately
+- Create a standardized reference for the technical writing community
 
 ---
+
+## Structure
+
+```
+technical-writing-glossary/
+├── docs/
+    ├── technical-writing-fundamentals/
+    ├── devops/
+    ├── cybersecurity/
+    ├── ai-ml/
+    └── [other-domains]/
+
+```
 
 ## 🔍 Browse the Glossary
 
@@ -24,17 +42,44 @@ Explore terms by category:
 
 ---
 
+## Contributing
+
+We welcome contributions! Please see our [Contribution Guide](CONTRIBUTING.md) for details on:
+
+- How to add new terms
+- How to update existing terms
+- Style guidelines
+- Review process
+
+Before contributing, please:
+
+- Check if the term already exists
+- Read our style guide
+- Follow the term template
+- Submit a pull request
+
+
 ## 🚀 Quick Start
 
-### For **Users**:  
-1. Click a category above to view terms.  
-2. Use **Ctrl+F** to search within a category file.  
+To contribute to this glossary:
 
-### For **Contributors**:  
-1. Read the [Contribution Guide](CONTRIBUTING.md).  
-2. Add or edit terms in the `/terms` folder.  
-3. Submit a Pull Request!  
+1. Fork the repository
+2. Clone your fork:
 
+```
+git clone https://github.com/yourusername/technical-writing-glossary.git
+```
+
+3. Create a new branch for your changes:
+
+```
+git checkout -b add-new-term
+```
+
+4. Make your changes following our guidelines
+   
+5. Submit a pull request
+   
 ---
 
 ## 📝 Example Entry
