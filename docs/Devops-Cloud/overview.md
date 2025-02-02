@@ -4,16 +4,16 @@ DevOps merges software development (Dev) and IT operations (Ops) to accelerate d
 
 ## Terms in this Category
 
-### A
+## A
 - [Ansible](ansible.md): Automation platform for configuration management
 - [AWS](aws.md): Amazon Web Services cloud platform
 - [Auto-scaling](auto-scaling.md): Automatic resource adjustment
 
-### B
+## B
 - [Blue-Green Deployment](blue-green-deployment.md): Deployment strategy
 - [Backup Strategies](backup-strategies.md): Data backup methods
 
-### C
+## C
 - [CI/CD](ci-cd.md): Continuous Integration/Continuous Deployment
 - [Containers](containers.md): Application packaging
 - [Cloud Native](cloud-native.md): Cloud-based application design
