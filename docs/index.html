@@ -28,7 +28,10 @@
       name: 'Technical Writing Glossary',
       repo: '',
       // logo: "TechWriters-logo.png",
-      loadSidebar: 'docs/_sidebar.md',
+      loadSidebar: true,
+      alias: {
+      '/.*/_sidebar.md': '/_sidebar.md'
+    },
       subMaxLevel: 2,
       name: "TechWriters Hub",
       repo: "https://github.com/thetechwritershub/Technical-Writing-Glossary",
