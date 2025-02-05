@@ -116,6 +116,11 @@ Last updated: [YYYY-MM-DD] | Version: [X.X]
 | [YYYY-MM-DD] | [Name] | 
 ```
 
+## Contributors
+
+[![Contributors](https://contrib.rocks/image?repo=thetechwritershub/Technical-Writing-Glossary)](https://github.com/thetechwritershub/Technical-Writing-Glossary/graphs/contributors)
+
+
 ## Acknowledgments
 
 Thanks to all contributors who help make this glossary a valuable resource for the technical writing community.

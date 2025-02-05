@@ -1,6 +1,14 @@
 # Technical Writing Glossary
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome!-8A2BE2)](CONTRIBUTING.md) [![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red)](https://github.com/{USERNAME}/{REPO})
+<!-- [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome!-8A2BE2)](CONTRIBUTING.md) [![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red)](https://github.com/{USERNAME}/{REPO}) -->
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://github.com/thetechwritershub/Technical-Writing-Glossary/blob/main/LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome!-8A2BE2?style=flat-square)](https://github.com/thetechwritershub/Technical-Writing-Glossary/blob/main/CONTRIBUTING.md)
+[![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=flat-square&logo=github)](https://github.com/thetechwritershub/Technical-Writing-Glossary)
+[![GitHub Stars](https://img.shields.io/github/stars/thetechwritershub/Technical-Writing-Glossary?style=social)](https://github.com/thetechwritershub/Technical-Writing-Glossary/stargazers)
+![GitHub contributors](https://img.shields.io/github/contributors/thetechwritershub/Technical-Writing-Glossary)
+
+
 
 ## Project Overview
 
