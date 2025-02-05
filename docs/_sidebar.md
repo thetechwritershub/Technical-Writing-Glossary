@@ -1,8 +1,8 @@
 - [Home](README.md)
 - Technical Writing Fundamentals
-    - [Overview](/docs/Technical-writing-fundamentals/overview.md)
+    - [Overview](Technical-writing-fundamentals/overview.md)
 - Software
-    - [Overview](/docs/Software/overview.md)
+    - [Overview](Software/overview.md)
 - Devops-Cloud
     - [Overview](Devops-cloud/overview.md)
 - Cybersecurity
