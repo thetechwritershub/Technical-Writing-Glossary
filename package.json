@@ -11,13 +11,14 @@
     "prepare": "husky"
   },
   "lint-staged": {
-  "*.js": "eslint --fix",
-  "*.md": "markdownlint --fix"
-},
+    "*.js": "eslint --fix",
+    "*.md": "markdownlint --fix"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "lint-staged": "^15.4.3"
+    "lint-staged": "^15.4.3",
+    "markdownlint-cli": "^0.44.0"
   }
 }
