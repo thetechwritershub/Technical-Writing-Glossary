@@ -7,10 +7,17 @@
     "doc": "docs"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo && exit 0",
     "prepare": "husky"
   },
+  "lint-staged": {
+  "*.js": "eslint --fix",
+  "*.md": "markdownlint --fix"
+},
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "lint-staged": "^15.4.3"
+  }
 }
