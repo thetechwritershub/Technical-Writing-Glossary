@@ -59,7 +59,7 @@ terms form the backbone of effective technical communication.
 
 - [Release Notes](release-notes.md): Documenting software updates
 - [Research Methods](research-methods.md): Techniques for documentation research
-- [R Markdown](r-markdown.md): A file format combining text and R code in a single document.
+- [R Markdown](docs/Technical-writing-fundamentals/r-markdown.md): A file format combining text and R code in a single document.
 
 ### S
 
